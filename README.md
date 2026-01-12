@@ -6,7 +6,7 @@ Analyzing poverty drivers and consumption patterns across 40,000+ Philippine hou
 
 ## 📄 Documentation
 
-[![PDF Preview](./assets/page_1.jpeg)](./Activity 2_ Uncovering Stories From Datasample.pdf)
+![PDF Preview](./assets/page_1.jpeg)
 
 Click the image above to view the full PDF
 
