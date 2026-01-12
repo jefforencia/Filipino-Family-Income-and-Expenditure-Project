@@ -7,6 +7,25 @@ Analyzing poverty drivers and consumption patterns across 40,000+ Philippine hou
 ## 📄 Documentation
 
 ![PDF Preview](./assets/page_1.jpeg)
+![PDF Preview](./assets/page_2.jpeg)
+![PDF Preview](./assets/page_3.jpeg)
+![PDF Preview](./assets/page_4.jpeg)
+![PDF Preview](./assets/page_5.jpeg)
+![PDF Preview](./assets/page_6.jpeg)
+![PDF Preview](./assets/page_7.jpeg)
+![PDF Preview](./assets/page_8.jpeg)
+![PDF Preview](./assets/page_9.jpeg)
+![PDF Preview](./assets/page_10.jpeg)
+![PDF Preview](./assets/page_11.jpeg)
+![PDF Preview](./assets/page_12.jpeg)
+![PDF Preview](./assets/page_13.jpeg)
+![PDF Preview](./assets/page_14.jpeg)
+![PDF Preview](./assets/page_15.jpeg)
+![PDF Preview](./assets/page_16.jpeg)
+![PDF Preview](./assets/page_17.jpeg)
+![PDF Preview](./assets/page_18.jpeg)
+![PDF Preview](./assets/page_19.jpeg)
+![PDF Preview](./assets/page_20.jpeg)
 
 Click the image above to view the full PDF
 
