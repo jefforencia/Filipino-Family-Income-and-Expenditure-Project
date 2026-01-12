@@ -13,7 +13,7 @@ Welcome to the project! Below you can find our main documentation.
 *Click the image above to view the full PDF*
 
 Or use these direct links:
-- [View PDF](./docs/document.pdf)
+- [View PDF](./Activity 2_ Uncovering Stories From Data.pdf)
 - [View on GitHub](https://github.com/username/repo/blob/main/docs/document.pdf)
 
 ## 🚀 Quick Start
